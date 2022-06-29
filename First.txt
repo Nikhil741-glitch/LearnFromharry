@@ -1,0 +1,9 @@
+This is version 1.
+
+version changed now ..
+version 2
+
+
+pwd - present working directory
+ls - list content
+cd - change directory
